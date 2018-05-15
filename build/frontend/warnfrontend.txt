@@ -1,0 +1,18 @@
+missing module named resource - imported by posix, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named posix - imported by os, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named _posixsubprocess - imported by subprocess, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named 'org.python' - imported by pickle, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py, xml.sax
+missing module named ce - imported by os, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named readline - imported by cmd, code, pdb, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named _winreg - imported by platform, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named 'java.lang' - imported by platform, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named termios - imported by tty, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py, getpass
+missing module named grp - imported by tarfile, shutil, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named _dummy_threading - imported by dummy_threading, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py, netrc, getpass
+missing module named org - imported by copy, D:\odrive\OneDrive For Business\Education\Udemy Courses\Python 10 projects_Udemy\App 5 - BookStore App\frontend.py
